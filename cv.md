@@ -5,7 +5,7 @@
 * **E-mail**: zakrevskyalex1323@gmail.com
 *******
 ## About myself:
-My name is Alex and I just love computer stuff, it has been with me throught my life, and recently I found out that I love to code! Algorithms writing/optimization, problem solving, coming up with the most efficient way of perfoming a task and constant learning - this is what I am all about right now. By the way, I have a 5 year experience of video montage/photo editing and coding is a new page, not to say a book, in my career. I try to learn as much as I can and from as many different sources as there are available. My main task for now is to choose my future specification in IT, so I`m looking forward to learn front-end in RS School course!
+My name is Alex and I just love computer stuff, it has been with me throught my life, and recently I found out that I love to code! Algorithms writing/optimization, problem solving, coming up with the most efficient way of perfoming a task and constant learning - this is what I am all about right now. By the way, I have a 5 year experience of video montage/photo editing and coding is a new page, not to say a book, in my career. I try to learn as much as I can and from as many different sources as there are available. My main task for now is to choose my future specification in IT, so I`m looking forward to learn front-end in RS School!
 
 ## Code Example (Function of deleting a tree node in Bin Search Tree(C++)):
 
@@ -51,8 +51,11 @@ My name is Alex and I just love computer stuff, it has been with me throught my 
 * JS (basic knowledge)
 * Adobe Photoshop, Premiere Pro, After Effects (intermediate)
 
-## English
-Advanced English level(96 points in CT):
-![image](https://user-images.githubusercontent.com/94646827/147286755-58409a90-f2e5-45f0-a441-bf179cdbda5a.png "Endglish level")
+## Projects:
+This CV is my first uploaded-to-net project.
 
-## 
+## English:
+* 96 CT
+* 78 EFSET
+![EF SET Certificate cut](https://user-images.githubusercontent.com/94646827/147333133-c3d8c244-eb42-4def-a52c-ce516d0b26cd.png)
+
