@@ -58,4 +58,3 @@ This CV is my first uploaded-to-net project.
 * 96 CT
 * 78 EFSET
 ![EF SET Certificate cut](https://user-images.githubusercontent.com/94646827/147333133-c3d8c244-eb42-4def-a52c-ce516d0b26cd.png)
-
